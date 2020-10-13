@@ -1,0 +1,7 @@
+<svg width="400px" height="400" xmlns="http://www.w3.org/2000/svg">
+  <text x="100" y="100" style="font:normal normal 38px Tahoma,Arial, San-serif; fill:chocolate;">Hello World I am</text>
+  <circle cx="100" cy="100" r="3" style="fill:red;" />
+
+  <text x="120" y="150" style="font:normal normal 40px Tahoma,Arial, San-serif; fill:#B22222;">Moamen Soroor</text>
+  <circle cx="120" cy="150" r="3" style="fill:black;" />
+</svg>

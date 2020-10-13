@@ -1,0 +1,23 @@
+<svg width="500px" height="500px" xmlns="http://www.w3.org/2000/svg">
+
+  <g fill-opacity="0.4" stroke-opacity="0.4">
+    <path d="m200 50 l-150 200 h300 z" fill="gold" stroke="red" stroke-width="5px" />
+
+    <text x="150" y="220" style="font: 120px Verdana">M</text>
+
+
+  </g>
+
+  <g transform="rotate(15 200 280) translate(0,100)">
+
+    <path d="m200 50 l-150 200 h300 z" fill="gold" stroke="red" stroke-width="5px" />
+
+    <text x="150" y="220" style="font: 120px Verdana">M</text>
+  </g>
+
+
+  <text x="100" y="420" style="font:18px Verdana">
+    <tspan>Effect of transform = </tspan>
+    <tspan x="50" dy="40px">rotate(15 200 280) translate(0,100)</tspan>
+  </text>
+</svg>

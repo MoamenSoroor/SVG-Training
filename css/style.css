@@ -1,0 +1,5 @@
+ svg>rect {
+   fill: green;
+   stroke: red;
+   stroke-width: 4px;
+ }

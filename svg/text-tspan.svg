@@ -1,0 +1,17 @@
+<svg width="400px" height="400px" xmlns="http://www.w3.org/2000/svg">
+  <text x="50" y="50" style="font: normal normal 25px Tahoma,Arial;" fill="#B22222">
+    Hello World <tspan dx="20px" dy="20px" fill="green" font-size="20px"> I am Moamen</tspan>
+  </text>
+
+  <!-- dx dy many values -->
+  <text x="50" y="100" style="font: 24px Tahoma; fill:red;">
+    Hello <tspan dx="5 5 5 5 5 5" dy="10 10 10 10 10 10">Moamen</tspan>
+  </text>
+
+  <!-- baseline-shift=  sub or super values -->
+  <text x="50" y="220" style="font: 24px Tahoma; fill:red;">
+    a<tspan baseline-shift="sub">1</tspan>X
+
+    + a<tspan baseline-shift="super">2</tspan>X = 0
+  </text>
+</svg>

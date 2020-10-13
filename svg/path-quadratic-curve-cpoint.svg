@@ -1,0 +1,33 @@
+<svg width="400px" height="400px" xmlns="http://www.w3.org/2000/svg">
+
+  <path d="M50 100 Q200 350, 350 100" fill="none" stroke="red" stroke-width="5px" />
+
+  <path d="M50 100 Q200 300, 350 100" fill="none" stroke="green" stroke-width="5px" />
+
+  <path d="M50 100 Q200 250, 350 100" fill="none" stroke="blue" stroke-width="5px" />
+
+  <path d="M50 100 Q200 200, 350 100" fill="none" stroke="orange" stroke-width="5px" />
+
+  <!-- red curve control point -->
+  <circle cx="200" cy="350" r="7px" fill="red" />
+
+  <path d="M50 100 L200 350 L 350 100 " fill="none" stroke="gray" stroke-width="3px" />
+
+  <!-- green curve control point -->
+  <circle cx="200" cy="300" r="7px" fill="green" />
+
+  <path d="M50 100 L200 300 L 350 100 " fill="none" stroke="gray" stroke-width="3px" />
+
+
+  <!-- blue curve control point -->
+  <circle cx="200" cy="250" r="7px" fill="blue" />
+
+  <path d="M50 100 L200 250 L 350 100 " fill="none" stroke="gray" stroke-width="3px" />
+
+
+  <!-- orange curve control point -->
+  <circle cx="200" cy="200" r="7px" fill="orange" />
+
+  <path d="M50 100 L200 200 L 350 100 " fill="none" stroke="gray" stroke-width="3px" />
+
+</svg>

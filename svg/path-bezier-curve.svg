@@ -1,0 +1,11 @@
+<svg width="400px" height="400px" xmlns="http://www.w3.org/2000/svg">
+  <path d="M50 100 C 50 200, 300 200, 350 100" fill="transparent" stroke="red" stroke-width="3px" />
+  <circle cx="50" cy="200" r="5" fill="green" />
+  <circle cx="300" cy="200" r="5" fill="green" />
+  <line x1="50" y1="100" x2="50" y2="200" stroke="black" stroke-width="2" />
+  <line x1="350" y1="100" x2="300" y2="200" stroke="black" stroke-width="2" />
+
+  <text x="20" y="240" style="">C1(50, 200)</text>
+
+  <text x="280" y="240" style="">C2(300, 200)</text>
+</svg>

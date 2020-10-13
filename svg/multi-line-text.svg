@@ -1,0 +1,21 @@
+<svg width="400px" height="400px" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    tspan {
+      font: normal normal 25px Tahoma, Arial;
+      fill: green;
+    }
+
+    .tspan2 {
+      fill: #B22222;
+    }
+
+    .tspan3 {
+      fill: blueviolet;
+    }
+  </style>
+  <text x="50" y="50">
+    <tspan x="20px" dy="50px"> I am Line 1</tspan>
+    <tspan class="tspan2" rotate="20px" x="20px" dy="50px"> I am Line 2</tspan>
+    <tspan class="tspan3" rotate="-20px" x="20px" dy="50px"> I am Line 3</tspan>
+  </text>
+</svg>

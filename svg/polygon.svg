@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400">
+  <polygon points="
+  200 50 
+  50 200 
+  350 200" style="stroke-width:5;stroke:green;fill:red;fill-rule:nonzero" />
+</svg>

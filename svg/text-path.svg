@@ -1,0 +1,11 @@
+<svg width="600px" height="400px" xmlns="http://www.w3.org/2000/svg">
+  <path id="name_path" d="M10 100 Q 200 200 , 300 100 T 580 100" fill="transparent" stroke-width="5px" stroke="gray" />
+
+  <text style="fill:red;font: 25px Verdana">
+
+    <textPath xlink:href="#name_path">
+      Moamen Soroor Hello World People Great day all
+    </textPath>
+  </text>
+
+</svg>

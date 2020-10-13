@@ -1,0 +1,23 @@
+<svg width="400px" height="400px" xmlns="http://www.w3.org/2000/svg">
+
+  <path d="M50 100 C 100 200, 150 200 ,200 100 S 300 0, 350 100" fill="transparent" stroke="green" stroke-width="3px" />
+
+  <line x1="50" y1="100" x2="350" y2="100" stroke="gray" stroke-width="3px" />
+
+  <circle cx="50" cy="100" r="5" fill="red" />
+
+  <circle cx="350" cy="100" r="5" fill="red" />
+
+  <!-- control point 1 -->
+  <circle cx="100" cy="200" r="5" fill="red" />
+
+  <!-- control point 2 -->
+  <circle cx="150" cy="200" r="5" fill="red" />
+
+  <!-- control point 3 -->
+  <circle cx="250" cy="5" r="5" fill="red" />
+
+  <!-- control point 4 -->
+  <circle cx="300" cy="5" r="5" fill="red" />
+
+</svg>

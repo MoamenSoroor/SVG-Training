@@ -1,0 +1,9 @@
+<svg width="500px" height="400px" xmlns="http://www.w3.org/2000/svg">
+  <text x="100px" y="100px" fill="none" stroke="black" stroke-width="3px" style="font: 50px Verdana">
+    Hello World
+  </text>
+
+  <text x="100px" y="200px" fill="green" stroke="black" stroke-width="3px" style="font: 70px Verdana">
+    Hello World
+  </text>
+</svg>

@@ -1,0 +1,17 @@
+<svg width="400px" height="400px" xmlns="http://www.w3.org/2000/svg">
+
+  <g stroke-width="5px" stroke-dasharray="5,2" stroke="green" fill="none">
+    <line x1="100px" y1="50px" x2="300px" y2="50px" />
+    <circle cx="200px" cy="100px" r="30px" />
+    <line x1="100px" y1="150px" x2="300px" y2="150px" />
+
+    <path d="M100 170 l100 50 l100 -50 
+    M100 200  l100 50 l100 -50
+    M100 230  l100 50 l100 -50
+    " />
+
+
+    <path d="M75 260 l125 50 l125 -50 v-200 q-135 -100, -250 0 z
+    " />
+  </g>
+</svg>

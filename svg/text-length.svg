@@ -1,0 +1,17 @@
+<svg width="400px" height="400" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- textLength Property of text Element -->
+  <text x="50" y="50" style="font:25px verdana;" fill="green">Hello World</text>
+
+
+  <!-- textLength Property to value 300px-->
+  <text x="50" y="100" style="font:25px verdana;" fill="green" textLength="300px">Hello World</text>
+
+
+  <!-- textLength Property to value 350px-->
+  <text x="50" y="150" style="font:25px verdana;" fill="green" textLength="350px">Hello World</text>
+
+
+  <!-- textLength Property to value 110px-->
+  <text x="50" y="200" style="font:25px verdana;" fill="green" textLength="110px">Hello World</text>
+</svg>

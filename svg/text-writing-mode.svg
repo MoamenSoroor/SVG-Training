@@ -1,0 +1,10 @@
+<svg width="400px" height="400" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- writing-mode of text Element lr and tb -->
+
+  <!-- writing-mode value = lr -->
+  <text x="100" y="100" style="font:25px verdana;" fill="red" writing-mode="lr">Hello World</text>
+
+  <!-- writing-mode value = tb -->
+  <text x="100" y="120" style="font:25px verdana;" fill="red" writing-mode="tb">Hello World</text>
+</svg>

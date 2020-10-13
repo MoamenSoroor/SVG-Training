@@ -1,0 +1,16 @@
+<svg width="500px" height="500px" xmlns="http://www.w3.org/2000/svg">
+  <path d="
+  M70 70 l 0 -50 a 50 50 0 1 1 -50 50 z" fill="gold" stroke="green" stroke-width="3px" />
+
+  <path d="
+  M 65 65 l 0 -50 a 50 50 0 0 0 -50 50 z" fill="tomato" stroke="green" stroke-width="3px" />
+
+
+  <path d="
+  M270 270 l 0 50 a 50 50 0 1 1 50 -50 z" fill="gold" stroke="green" stroke-width="3px" />
+
+  <path d="
+  M 275 275 l 50 0 a 50 50 0 0 1 -50 50 z" fill="tomato" stroke="green" stroke-width="3px" />
+
+
+</svg>

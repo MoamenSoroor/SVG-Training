@@ -1,0 +1,5 @@
+<svg width="400px" height="400px" xmlns="http://www.w3.org/2000/svg">
+  <path d="m200 50 l-150 200 h300 z" fill="gold" stroke="red" stroke-width="5px" />
+
+  <text x="150" y="220" style="font: 120px Verdana">M</text>
+</svg>

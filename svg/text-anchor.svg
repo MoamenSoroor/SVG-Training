@@ -1,0 +1,11 @@
+<svg width="400px" height="400px" xmlns="http://www.w3.org/2000/svg">
+  <line x1="200" x2="200" y1="0" y2="400" stroke="black" stroke-width="3px" />
+
+  <text x="200" y="100" style="font: 24px verdana">Hello World</text>
+
+  <text x="200" y="100" style="font: 24px verdana" text-anchor="start">Hello World</text>
+
+  <text x="200" y="150" style="font: 24px verdana" text-anchor="middle">Hello World</text>
+
+  <text x="200" y="200" style="font: 24px verdana" text-anchor="end">Hello World</text>
+</svg>

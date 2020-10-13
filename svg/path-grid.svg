@@ -1,0 +1,42 @@
+<svg width="400px" height="400px" xmlns="http://www.w3.org/2000/svg">
+  <path d="
+  M 0   0 v400
+  M 25  0 v400
+  M 50  0 v400
+  M 75  0 v400
+  M 100 0 v400
+  M 125 0 v400
+  M 150 0 v400
+  M 175 0 v400
+  M 200 0 v400
+  M 225 0 v400
+  M 250 0 v400
+  M 275 0 v400
+  M 300 0 v400
+  M 325 0 v400
+  M 350 0 v400
+  M 375 0 v400
+  M 400 0 v400
+
+  M 0 0    h400
+  M 0 25   h400
+  M 0 50   h400
+  M 0 75   h400
+  M 0 100  h400
+  M 0 125  h400
+  M 0 150  h400
+  M 0 175  h400
+  M 0 200  h400
+  M 0 225  h400
+  M 0 250  h400
+  M 0 275  h400
+  M 0 300  h400
+  M 0 325  h400
+  M 0 350  h400
+  M 0 375  h400
+  M 0 400  h400
+  
+  
+  " style="stroke:black;stroke-width:3px;fill:transparent;" />
+
+</svg>
